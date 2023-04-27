@@ -11,6 +11,8 @@ public class MainStringBuilder {
 		strinBuilder.append(" & Goodbye!!");
 		printInformation(string);
 		printInformation(strinBuilder);
+		System.out.println("This is update 3.");
+		System.out.println("This is update 4.");
 		
 
 	}
